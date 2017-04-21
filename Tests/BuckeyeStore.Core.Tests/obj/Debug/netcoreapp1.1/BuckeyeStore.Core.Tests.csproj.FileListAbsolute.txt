@@ -1,0 +1,11 @@
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.deps.json
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.runtimeconfig.json
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.runtimeconfig.dev.json
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.AssemblyInfo.cs
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
