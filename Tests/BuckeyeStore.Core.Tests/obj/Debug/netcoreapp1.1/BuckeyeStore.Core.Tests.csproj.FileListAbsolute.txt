@@ -9,3 +9,5 @@
 /Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.AssemblyInfo.cs
 /Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
 /Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/matthewmarkley/Documents/AMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
